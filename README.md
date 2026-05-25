@@ -1,4 +1,4 @@
-# 𐙚⋆° Hi! It's cherrome 🦢.⋆ ᥫ᭡ 
+# 𐙚⋆° Hi! It's cherrome 🦢.⋆
 
 ## Ars Longa, Vita Brevis🪷
 Graduated in English Literature who love combining creativity and programming together, turning imagination into tangible realities.
