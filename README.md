@@ -35,4 +35,4 @@ They/It
 ### 🎨 Creative & Design Tech
 [![Procreate](https://img.shields.io/badge/Procreate-%23F9A1BC.svg?style=for-the-badge&logo=procreate&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-%23FF8E9E.svg?style=for-the-badge&logo=Figma&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/Notion-%23F9A1BC.svg?style=for-the-badge&logo=procreate&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-%23F9A1BC.svg?style=for-the-badge&logo=Notion&logoColor=white)](#)
