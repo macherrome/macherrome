@@ -19,7 +19,6 @@ They/It
 ## 🐇Tools | Skills
 ### 🤖 AI, LLMs & Automation
 [![LLMs](https://img.shields.io/badge/LLMs-%23FFC0CB.svg?style=for-the-badge&logo=probot&logoColor=white)](#)
-[![Claude AI](https://img.shields.io/badge/Claude_AI-%23FFB6C1.svg?style=for-the-badge&logo=anthropic&logoColor=white)](#)
 [![AI Agents](https://img.shields.io/badge/AI_Agents-%23FFA07A.svg?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![n8n Workflows](https://img.shields.io/badge/n8n_Workflows-%23FF9999.svg?style=for-the-badge&logo=n8n&logoColor=white)](#)
 [![Apify](https://img.shields.io/badge/Apify-%23FF85A2.svg?style=for-the-badge&logo=apify&logoColor=white)](#)
@@ -36,3 +35,4 @@ They/It
 ### 🎨 Creative & Design Tech
 [![Procreate](https://img.shields.io/badge/Procreate-%23F9A1BC.svg?style=for-the-badge&logo=procreate&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-%23FF8E9E.svg?style=for-the-badge&logo=Figma&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-%23F9A1BC.svg?style=for-the-badge&logo=procreate&logoColor=white)](#)
