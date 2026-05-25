@@ -2,13 +2,17 @@
 
 ## Ars Longa, Vita Brevis🪷
 Graduated in English Literature who love combining creativity and programming together, turning imagination into tangible realities.
-### I enjoy buildings workflow automation and creative arts! I'm working on website for my page [tofahlun](instagram.com/tofahlun)
+
+
+I enjoy buildings workflow automation and creative arts! I'm working on website for my page [tofahlun](instagram.com/tofahlun)
 
 ## If you have an idea and looking for someone to work with, please do feel free to connect 
 [![macherrome](https://img.shields.io/badge/macherrome-%23FFC0CB.svg?style=for-the-badge&logo=Instagram&logoColor=white)](instagram.com/macherrome)
 [![phaarnxd](https://img.shields.io/badge/phaarnxd-%23FFB6C1.svg?style=for-the-badge&logo=Instagram&logoColor=white)](instagram.com/phaarnxd)
 [![Discord](https://img.shields.io/badge/My_Discord-%23FBC5D8.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/JkUzUKKn)
-### let's do an amazing work together✨
+
+
+let's do an amazing work together✨
 
 ## 🐰Pronouns
 They/It
