@@ -18,12 +18,15 @@ let's do an amazing work together✨
 They/It
 ## 🐇Tools | Skills
 ### 🤖 AI, LLMs & Automation
-[![LLMs](https://img.shields.io/badge/LLMs-%23FFC0CB.svg?style=for-the-badge&logo=probot&logoColor=white)](#)
-[![AI Agents](https://img.shields.io/badge/AI_Agents-%23FFA07A.svg?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![n8n Workflows](https://img.shields.io/badge/n8n_Workflows-%23FF9999.svg?style=for-the-badge&logo=n8n&logoColor=white)](#)
-[![Apify](https://img.shields.io/badge/Apify-%23FF85A2.svg?style=for-the-badge&logo=apify&logoColor=white)](#)
 [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%23FF9999.svg?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-%23FF85A2.svg?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![n8n Workflows](https://img.shields.io/badge/n8n_Workflows-%23FF9999.svg?style=for-the-badge&logo=n8n&logoColor=white)](#)
+[![LLMs](https://img.shields.io/badge/LLMs-%23FFC0CB.svg?style=for-the-badge&logo=probot&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-%23FFA07A.svg?style=for-the-badge&logo=openai&logoColor=white)](#)
+
+[![Apify](https://img.shields.io/badge/Apify-%23FF85A2.svg?style=for-the-badge&logo=apify&logoColor=white)](#)
+
+
 
 ### 💻 Development & Environment
 [![VS Code](https://img.shields.io/badge/VS_Code-%23FBC5D8.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
